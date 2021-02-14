@@ -1,0 +1,25 @@
+{
+  "name": "simple-pdf-edit",
+  "version": "1.0.0",
+  "description": "Simple PDF edit",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phena109/simple-pdf-edit.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/phena109/simple-pdf-edit/issues"
+  },
+  "homepage": "https://github.com/phena109/simple-pdf-edit#readme",
+  "devDependencies": {
+    "electron": "^11.2.3"
+  },
+  "dependencies": {
+    "pdf-lib": "^1.16.0"
+  }
+}
