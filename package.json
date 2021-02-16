@@ -2,8 +2,9 @@
   "name": "simple-pdf-edit",
   "version": "1.0.0",
   "description": "Simple PDF edit",
-  "main": "index.js",
+  "main": "main.js",
   "scripts": {
+    "start": "electron .",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -11,7 +12,7 @@
     "url": "git+https://github.com/phena109/simple-pdf-edit.git"
   },
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/phena109/simple-pdf-edit/issues"
   },
